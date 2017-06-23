@@ -1,0 +1,6 @@
+framework module Pods_Youtube_CloneTests {
+  umbrella header "Pods-Youtube CloneTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
